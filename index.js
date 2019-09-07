@@ -18,7 +18,13 @@ function divide (a, b) {
 }
 divide (5.0 , 2.5);
 
+<<<<<<< HEAD
 
 function inc (a, '5') {
   return a++
 }
+=======
+var a = 5
+a++
+console.log(a)
+>>>>>>> bba5f85e07abb5318e5e698f44d60666100ecc19
